@@ -1,0 +1,472 @@
+
+Concert Search Log----------------------
+
+Venue Name: KAOS Vegas
+
+Venue Location: Las Vegas, NV, United States
+
+Venue Time: 07/26/2019, 10:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: VELD Music Festival [August 3-4]
+
+Venue Location: Toronto, , Canada
+
+Venue Time: 08/03/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: KAOS Vegas
+
+Venue Location: Las Vegas, NV, United States
+
+Venue Time: 08/04/2019, 3:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: KAOS Vegas
+
+Venue Location: Las Vegas, NV, United States
+
+Venue Time: 08/10/2019, 1:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: KAOS Vegas
+
+Venue Location: Las Vegas, NV, United States
+
+Venue Time: 08/17/2019, 10:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: DOG BLOOD @ Electric Zoo [Aug 30 - Sept 1]
+
+Venue Location: New York, NY, United States
+
+Venue Time: 08/30/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: KAOS Vegas
+
+Venue Location: Las Vegas, NV, United States
+
+Venue Time: 09/21/2019, 10:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: KAOS Vegas
+
+Venue Location: Las Vegas, NV, United States
+
+Venue Time: 09/27/2019, 10:00 PM
+
+-----------------------------------------
+
+-------------Concert Search Log-------------
+
+Venue Name: KAOS Vegas
+
+Venue Location: Las Vegas, NV, United States
+
+Venue Time: 07/26/2019, 10:00 PM
+
+-----------------------------------------
+
+-------------Concert Search Log-------------
+
+Venue Name: VELD Music Festival [August 3-4]
+
+Venue Location: Toronto, , Canada
+
+Venue Time: 08/03/2019, 7:00 PM
+
+-----------------------------------------
+
+-------------Concert Search Log-------------
+
+Venue Name: KAOS Vegas
+
+Venue Location: Las Vegas, NV, United States
+
+Venue Time: 08/04/2019, 3:00 PM
+
+-----------------------------------------
+
+-------------Concert Search Log-------------
+
+Venue Name: KAOS Vegas
+
+Venue Location: Las Vegas, NV, United States
+
+Venue Time: 08/10/2019, 1:00 PM
+
+-----------------------------------------
+
+-------------Concert Search Log-------------
+
+Venue Name: KAOS Vegas
+
+Venue Location: Las Vegas, NV, United States
+
+Venue Time: 08/17/2019, 10:00 PM
+
+-----------------------------------------
+
+-------------Concert Search Log-------------
+
+Venue Name: DOG BLOOD @ Electric Zoo [Aug 30 - Sept 1]
+
+Venue Location: New York, NY, United States
+
+Venue Time: 08/30/2019, 7:00 PM
+
+-----------------------------------------
+
+-------------Concert Search Log-------------
+
+Venue Name: KAOS Vegas
+
+Venue Location: Las Vegas, NV, United States
+
+Venue Time: 09/21/2019, 10:00 PM
+
+-----------------------------------------
+
+-------------Concert Search Log-------------
+
+Venue Name: KAOS Vegas
+
+Venue Location: Las Vegas, NV, United States
+
+Venue Time: 09/27/2019, 10:00 PM
+
+-----------------------------------------
+
+-------------Movie Search Log-------------
+
+Title of the movie: Fight Club
+
+Year the movie came out: 1999
+
+IMDB Rating of the movie: 8.8
+
+Rotten Tomatoes Rating of the movie: 79%
+
+Country where the movie was produced: USA, Germany
+
+Language of the movie: English
+
+Plot of the movie: An insomniac office worker and a devil-may-care soapmaker form an underground fight club that evolves into something much, much more.
+
+Actors in the movie: Edward Norton, Brad Pitt, Meat Loaf, Zach Grenier
+
+-----------------------------------------
+
+-------------Concert Search Log-------------
+
+Venue Name: KAOS Vegas
+
+Venue Location: Las Vegas, NV, United States
+
+Venue Time: 07/26/2019, 10:00 PM
+
+-----------------------------------------
+
+-------------Concert Search Log-------------
+
+Venue Name: VELD Music Festival [August 3-4]
+
+Venue Location: Toronto, , Canada
+
+Venue Time: 08/03/2019, 7:00 PM
+
+-----------------------------------------
+
+-------------Concert Search Log-------------
+
+Venue Name: KAOS Vegas
+
+Venue Location: Las Vegas, NV, United States
+
+Venue Time: 08/04/2019, 3:00 PM
+
+-----------------------------------------
+
+-------------Concert Search Log-------------
+
+Venue Name: KAOS Vegas
+
+Venue Location: Las Vegas, NV, United States
+
+Venue Time: 08/10/2019, 1:00 PM
+
+-----------------------------------------
+
+-------------Concert Search Log-------------
+
+Venue Name: KAOS Vegas
+
+Venue Location: Las Vegas, NV, United States
+
+Venue Time: 08/17/2019, 10:00 PM
+
+-----------------------------------------
+
+-------------Concert Search Log-------------
+
+Venue Name: DOG BLOOD @ Electric Zoo [Aug 30 - Sept 1]
+
+Venue Location: New York, NY, United States
+
+Venue Time: 08/30/2019, 7:00 PM
+
+-----------------------------------------
+
+-------------Concert Search Log-------------
+
+Venue Name: KAOS Vegas
+
+Venue Location: Las Vegas, NV, United States
+
+Venue Time: 09/21/2019, 10:00 PM
+
+-----------------------------------------
+
+-------------Concert Search Log-------------
+
+Venue Name: KAOS Vegas
+
+Venue Location: Las Vegas, NV, United States
+
+Venue Time: 09/27/2019, 10:00 PM
+
+-----------------------------------------
+
+-------------Concert Search Log-------------
+
+Venue Name: KAOS Vegas
+
+Venue Location: Las Vegas, NV, United States
+
+Venue Time: 07/26/2019, 10:00 PM
+
+-----------------------------------------
+
+-------------Concert Search Log-------------
+
+Venue Name: VELD Music Festival [August 3-4]
+
+Venue Location: Toronto, , Canada
+
+Venue Time: 08/03/2019, 7:00 PM
+
+-----------------------------------------
+
+-------------Concert Search Log-------------
+
+Venue Name: KAOS Vegas
+
+Venue Location: Las Vegas, NV, United States
+
+Venue Time: 08/04/2019, 3:00 PM
+
+-----------------------------------------
+
+-------------Concert Search Log-------------
+
+Venue Name: KAOS Vegas
+
+Venue Location: Las Vegas, NV, United States
+
+Venue Time: 08/10/2019, 1:00 PM
+
+-----------------------------------------
+
+-------------Concert Search Log-------------
+
+Venue Name: KAOS Vegas
+
+Venue Location: Las Vegas, NV, United States
+
+Venue Time: 08/17/2019, 10:00 PM
+
+-----------------------------------------
+
+-------------Concert Search Log-------------
+
+Venue Name: DOG BLOOD @ Electric Zoo [Aug 30 - Sept 1]
+
+Venue Location: New York, NY, United States
+
+Venue Time: 08/30/2019, 7:00 PM
+
+-----------------------------------------
+
+-------------Concert Search Log-------------
+
+Venue Name: KAOS Vegas
+
+Venue Location: Las Vegas, NV, United States
+
+Venue Time: 09/21/2019, 10:00 PM
+
+-----------------------------------------
+
+-------------Concert Search Log-------------
+
+Venue Name: KAOS Vegas
+
+Venue Location: Las Vegas, NV, United States
+
+Venue Time: 09/27/2019, 10:00 PM
+
+-----------------------------------------
+
+-------------Concert Search Log-------------
+
+Venue Name: Le Liberté - L'Etage
+
+Venue Location: Rennes, , France
+
+Venue Time: 10/17/2019, 8:00 PM
+
+-----------------------------------------
+
+-------------Concert Search Log-------------
+
+Venue Name: PENA FESTAYRE
+
+Venue Location: Paris, , France
+
+Venue Time: 10/18/2019, 7:30 PM
+
+-----------------------------------------
+
+[36m-------------Concert Search Log-------------[39m
+
+Venue Name: Le Liberté - L'Etage
+
+Venue Location: Rennes, , France
+
+Venue Time: 10/17/2019, 8:00 PM
+
+-----------------------------------------
+
+[36m-------------Concert Search Log-------------[39m
+
+Venue Name: PENA FESTAYRE
+
+Venue Location: Paris, , France
+
+Venue Time: 10/18/2019, 7:30 PM
+
+-----------------------------------------
+
+-------------Movie Search Log-------------
+
+Title of the movie: Fight Club
+
+Year the movie came out: 1999
+
+IMDB Rating of the movie: 8.8
+
+Rotten Tomatoes Rating of the movie: 79%
+
+Country where the movie was produced: USA, Germany
+
+Language of the movie: English
+
+Plot of the movie: An insomniac office worker and a devil-may-care soapmaker form an underground fight club that evolves into something much, much more.
+
+Actors in the movie: Edward Norton, Brad Pitt, Meat Loaf, Zach Grenier
+
+-----------------------------------------
+
+Song Search Log---------------------------------------
+
+Song Name: The Sign
+
+Artist(s): Ace of Base
+
+Album: The Sign (US Album) [Remastered]
+
+Preview Link: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=ecd32552bfda42e6a13f59895fb84686
+
+-------------------------------------------------------
+
+-------------Song Search Log-------------
+
+Artist(s) name : Ace of Base
+
+Song's name : The Sign
+
+Preview link : https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=ecd32552bfda42e6a13f59895fb84686
+
+Album name : The Sign (US Album) [Remastered]
+
+-----------------------------------------
+
+-------------Song Search Log-------------
+
+Artist(s) name : Ace of Base
+
+Song's name : The Sign
+
+Preview link : https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=ecd32552bfda42e6a13f59895fb84686
+
+Album name : The Sign (US Album) [Remastered]
+
+-----------------------------------------
+
+-------------Song Search Log-------------
+
+Artist(s) name : Lizzo
+
+Song's name : Truth Hurts
+
+Preview link : https://p.scdn.co/mp3-preview/c8bdc870ffc6044c84f0d52306a35551fb3d0263?cid=ecd32552bfda42e6a13f59895fb84686
+
+Album name : Cuz I Love You (Deluxe)
+
+-----------------------------------------
+
+-------------Song Search Log-------------
+
+Artist(s) name : Wilco
+
+Song's name : I Am Trying to Break Your Heart
+
+Preview link : https://p.scdn.co/mp3-preview/5a9c2c017ae66ef1ddacd20a0b0ed8a547182811?cid=ecd32552bfda42e6a13f59895fb84686
+
+Album name : Yankee Hotel Foxtrot
+
+-----------------------------------------
+
+-------------Song Search Log-------------
+
+Artist(s) name : Backstreet Boys
+
+Song's name : I Want It That Way
+
+Preview link : https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=ecd32552bfda42e6a13f59895fb84686
+
+Album name : The Hits--Chapter One
+
+-----------------------------------------
