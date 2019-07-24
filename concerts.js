@@ -1,17 +1,17 @@
-var fs = require("fs");
-var axios=require("axios");
-var moment = require('moment');
+const fs = require("fs");
+const axios=require("axios");
+const moment = require('moment');
 const chalk = require('chalk');
 function myConcert(userInput){
-    var artist = userInput;
+    let artist = userInput;
    
-    var queryUrl = "https://rest.bandsintown.com/artists/" + artist + "/events?app_id=codingbootcamp";
+    const queryUrl = "https://rest.bandsintown.com/artists/" + artist + "/events?app_id=codingbootcamp";
 
     axios.get(queryUrl).then(
       function(response){
        // console.log( response.data);
        
-        for(var i=0; i<response.data.length; i++){
+        for(let i=0; i<response.data.length; i++){
             console.log(chalk.cyan("Concert Venue Name: ") + response.data[i].venue.name);
             console.log(chalk.cyan("Concert location : " ) + response.data[i].venue.city + response.data[i].venue.region + response.data[i].venue.country); 
             console.log(chalk.cyan("Concert Time: ") + moment(response.data[i].datetime, 'YYYY-MM-DDTHH:mm:ss').format('MM/DD/YYYY, h:mm A'));

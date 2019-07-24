@@ -1,16 +1,16 @@
-var fs = require("fs");
-var axios=require("axios");
+const fs = require("fs");
+const axios=require("axios");
 const chalk = require('chalk');
 
 function getMovies(userInput){
-    var movieName = userInput;
+    let movieName = userInput;
    
     if (!movieName) {
       console.log("If you haven't watched 'Mr. Nobody,' then you should.")
       console.log("It's on Netflix!")
       movieName = "Mr.-Nobody"
     }
-    var queryUrl = "http://www.omdbapi.com/?t=" + movieName + "&y=&plot=short&apikey=trilogy";
+    const queryUrl = "http://www.omdbapi.com/?t=" + movieName + "&y=&plot=short&apikey=trilogy";
     axios.get(queryUrl).then(
       function(response){
          // console.log( response.data);

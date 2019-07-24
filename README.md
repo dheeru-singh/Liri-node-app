@@ -14,3 +14,4 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
 * NPM dotenv
 
 ## Demo
+![Word Guess Cli](liri-node-app.mp4)

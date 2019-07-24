@@ -1,18 +1,18 @@
 require("dotenv").config();
 
-var keys = require("./keys.js");
-var Spotify = require("node-spotify-api");
-var fs = require("fs");
-var axios=require("axios");
+const keys = require("./keys.js");
+const Spotify = require("node-spotify-api");
+const fs = require("fs");
+const axios=require("axios");
 const chalk = require('chalk');
-//var keys = require("./keys.js");
+//const keys = require("./keys.js");
 
 // Storing API keys in variables.
-// var spotify = new Spotify(keys.spotify);
-var spotify = new Spotify(keys.spotify);
+// const spotify = new Spotify(keys.spotify);
+const spotify = new Spotify(keys.spotify);
 
 function mySpotify(userInput){
-    var song = userInput;
+    let song = userInput;
    
     if (!song) {
         song= "the sign Ace of Base" 
